@@ -30,7 +30,7 @@ wget https://raw.githubusercontent.com/axoryn/Holmes/refs/heads/main/holmes.py
 
 - Directly with pip3: ```pip3 install requests```
 - For Arch: ```sudo pacman -S python-requests```
-- For Debian/Ubuntu: ```sudo apt install python```
+- For Debian/Ubuntu: ```sudo apt install python3-requests```
 
 ## Usage
 
